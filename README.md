@@ -1,4 +1,4 @@
-# Factorio Icons Calculator
+# Factorio Resources
 
 This repo stores factorio icons and sounds, so that you can use them in your application, website, etc.
 
